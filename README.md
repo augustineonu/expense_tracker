@@ -56,6 +56,11 @@ lib/
 6. Track your spending patterns through visual analytics.
 
 ## Media Files
+ An MP4 file has been attached.
+
+https://github.com/user-attachments/assets/191ec159-15db-4821-895d-13265bb9358c
+https://github.com/user-attachments/assets/50714341-d4ad-498b-9505-59a2c2087f5c
+
 
 
 ## Contributing
@@ -69,3 +74,6 @@ lib/
 Contact
 Your Name - @NayaKvng
 Project Link: https://github.com/augustineonu/expense_tracker
+
+
+
